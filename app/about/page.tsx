@@ -3,7 +3,7 @@ import React from 'react'
 
 const About = () => {
 	return (
-		<div className='h-screen w-screen overflow-y-auto'>
+		<div className='h-screen w-screen overflow-y-auto sm:overflow-hidden'>
 			<Navbar />
 			<div className='flex flex-col w-full h-full'>
 				<div className='flex items-end justify-start w-full h-60 px-10 sm:px-16'>
