@@ -14,12 +14,12 @@ const About = () => {
 				</div>
 				<div className='flex flex-col gap-5 text-white font-semibold bg-primary w-full sm:h-full p-10 sm:p-16'>
 					<p>
-						Hello! I'm Muhammed Nasal KK, a passionate graphic designer with a deep love for creative expression and visual storytelling. I believe that design has the power to transform ideas into compelling visuals that leave a lasting impact.
+						Hello! I&#39;m Muhammed Nasal KK, a passionate graphic designer with a deep love for creative expression and visual storytelling. I believe that design has the power to transform ideas into compelling visuals that leave a lasting impact.
 					</p>
 
 					<p>
 						My Journey:
-						I embarked on my graphic design journey with a mission to blend artistry with functionality. Over the 3 years, I've had the privilege of working on a diverse range of projects, from crafting brand identities for startups to designing eye-catching marketing materials for established businesses.
+						I embarked on my graphic design journey with a mission to blend artistry with functionality. Over the 3 years, I&#39;ve had the privilege of working on a diverse range of projects, from crafting brand identities for startups to designing eye-catching marketing materials for established businesses.
 					</p>
 
 					<p>
