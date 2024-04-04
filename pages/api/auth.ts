@@ -31,8 +31,6 @@ const handler = (req: NextApiRequest, res: NextApiResponse) => {
 				})
 				return
 			}
-			console.log(USERNAME, username)
-			console.log(PASSWORD, password)
 
 			if (USERNAME != username || PASSWORD != password) {
 				res.status(400).send({
